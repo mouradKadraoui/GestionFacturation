@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|C:\\Users\\Hp\\Desktop\\Gestion Facturation\\gestion facturation\\form_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|solutionrelative:gestion facturation\\form_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|C:\\Users\\Hp\\Desktop\\Gestion Facturation\\gestion facturation\\form_mn_fact.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|solutionrelative:gestion facturation\\form_mn_fact.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|c:\\users\\hp\\desktop\\gestion facturation\\gestion facturation\\form_mot_passe.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|solutionrelative:gestion facturation\\form_mot_passe.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|C:\\Users\\Hp\\Desktop\\Gestion Facturation\\gestion facturation\\form_page_de_garde.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|solutionrelative:gestion facturation\\form_page_de_garde.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|C:\\Users\\Hp\\Desktop\\Gestion Facturation\\gestion facturation\\form_merise.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|solutionrelative:gestion facturation\\form_merise.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|C:\\Users\\Hp\\Desktop\\Gestion Facturation\\gestion facturation\\form_fornss.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|solutionrelative:gestion facturation\\form_fornss.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|C:\\Users\\Hp\\Desktop\\Gestion Facturation\\gestion facturation\\form_avance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|solutionrelative:gestion facturation\\form_avance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|C:\\Users\\Hp\\Desktop\\Gestion Facturation\\gestion facturation\\form_access.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|solutionrelative:gestion facturation\\form_access.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|C:\\Users\\Hp\\Desktop\\Gestion Facturation\\gestion facturation\\resources\\form9_etat_impay\u00E9s.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|solutionrelative:gestion facturation\\resources\\form9_etat_impay\u00E9s.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|C:\\Users\\Hp\\Desktop\\Gestion Facturation\\gestion facturation\\resources\\form3_nouvelle_facture.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|solutionrelative:gestion facturation\\resources\\form3_nouvelle_facture.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|C:\\Users\\Hp\\Desktop\\Gestion Facturation\\gestion facturation\\resources\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|solutionrelative:gestion facturation\\resources\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|C:\\Users\\Hp\\Desktop\\Gestion Facturation\\gestion facturation\\resources\\form2_saisi_produit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|solutionrelative:gestion facturation\\resources\\form2_saisi_produit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|C:\\Users\\Hp\\Desktop\\Gestion Facturation\\gestion facturation\\resources\\form_list_produit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|solutionrelative:gestion facturation\\resources\\form_list_produit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|C:\\Users\\Hp\\Desktop\\Gestion Facturation\\gestion facturation\\resources\\form_list_client.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D79586E0-73B0-4B6A-8A13-2B6742F5951E}|Gestion Facturation\\Gestion Facturation.vbproj|solutionrelative:gestion facturation\\resources\\form_list_client.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_mn_fact.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_mn_fact.vb",
+              "RelativeDocumentMoniker": "Gestion Facturation\\Form_mn_fact.vb",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_mn_fact.vb [Design]",
+              "RelativeToolTip": "Gestion Facturation\\Form_mn_fact.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T17:34:58.9Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_mot_passe.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_mot_passe.vb",
+              "RelativeDocumentMoniker": "Gestion Facturation\\Form_mot_passe.vb",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_mot_passe.vb [Design]",
+              "RelativeToolTip": "Gestion Facturation\\Form_mot_passe.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T18:01:29.543Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Menu.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_Menu.vb",
+              "RelativeDocumentMoniker": "Gestion Facturation\\Form_Menu.vb",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_Menu.vb [Design]",
+              "RelativeToolTip": "Gestion Facturation\\Form_Menu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T17:52:54.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_fornss.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_fornss.vb",
+              "RelativeDocumentMoniker": "Gestion Facturation\\Form_fornss.vb",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_fornss.vb [Design]",
+              "RelativeToolTip": "Gestion Facturation\\Form_fornss.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T17:52:52.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form_access.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_access.vb",
+              "RelativeDocumentMoniker": "Gestion Facturation\\Form_access.vb",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_access.vb [Design]",
+              "RelativeToolTip": "Gestion Facturation\\Form_access.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T17:52:49.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_page_de_garde.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_page_de_garde.vb",
+              "RelativeDocumentMoniker": "Gestion Facturation\\Form_page_de_garde.vb",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_page_de_garde.vb [Design]",
+              "RelativeToolTip": "Gestion Facturation\\Form_page_de_garde.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T17:35:45.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_merise.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_merise.vb",
+              "RelativeDocumentMoniker": "Gestion Facturation\\Form_merise.vb",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_merise.vb [Design]",
+              "RelativeToolTip": "Gestion Facturation\\Form_merise.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T17:52:53.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form_avance.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_avance.vb",
+              "RelativeDocumentMoniker": "Gestion Facturation\\Form_avance.vb",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Form_avance.vb [Design]",
+              "RelativeToolTip": "Gestion Facturation\\Form_avance.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T17:52:48.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form9_Etat_Impay\u00E9s.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Resources\\Form9_Etat_Impay\u00E9s.vb",
+              "RelativeDocumentMoniker": "Gestion Facturation\\Resources\\Form9_Etat_Impay\u00E9s.vb",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Resources\\Form9_Etat_Impay\u00E9s.vb [Design]",
+              "RelativeToolTip": "Gestion Facturation\\Resources\\Form9_Etat_Impay\u00E9s.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T17:52:14.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3_Nouvelle_Facture.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Resources\\Form3_Nouvelle_Facture.vb",
+              "RelativeDocumentMoniker": "Gestion Facturation\\Resources\\Form3_Nouvelle_Facture.vb",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Resources\\Form3_Nouvelle_Facture.vb [Design]",
+              "RelativeToolTip": "Gestion Facturation\\Resources\\Form3_Nouvelle_Facture.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T17:45:52.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Resources\\Form3.vb",
+              "RelativeDocumentMoniker": "Gestion Facturation\\Resources\\Form3.vb",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Resources\\Form3.vb [Design]",
+              "RelativeToolTip": "Gestion Facturation\\Resources\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T17:45:32.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2_Saisi_Produit.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Resources\\Form2_Saisi_Produit.vb",
+              "RelativeDocumentMoniker": "Gestion Facturation\\Resources\\Form2_Saisi_Produit.vb",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Resources\\Form2_Saisi_Produit.vb [Design]",
+              "RelativeToolTip": "Gestion Facturation\\Resources\\Form2_Saisi_Produit.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T17:45:12.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form_List_Produit.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Resources\\Form_List_Produit.vb",
+              "RelativeDocumentMoniker": "Gestion Facturation\\Resources\\Form_List_Produit.vb",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Resources\\Form_List_Produit.vb [Design]",
+              "RelativeToolTip": "Gestion Facturation\\Resources\\Form_List_Produit.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T17:45:06.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form_list_client.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Resources\\Form_list_client.vb",
+              "RelativeDocumentMoniker": "Gestion Facturation\\Resources\\Form_list_client.vb",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Gestion Facturation\\Gestion Facturation\\Resources\\Form_list_client.vb [Design]",
+              "RelativeToolTip": "Gestion Facturation\\Resources\\Form_list_client.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T17:41:19.829Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

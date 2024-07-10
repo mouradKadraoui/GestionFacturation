@@ -1,0 +1,43 @@
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\bin\x64\Debug\projet PFE1.accdb
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\bin\x64\Debug\Gestion Facturation.exe.config
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\bin\x64\Debug\Gestion Facturation.exe
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\bin\x64\Debug\Gestion Facturation.pdb
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\bin\x64\Debug\Gestion Facturation.xml
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\Gestion Facturation.vbproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form1.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form10_Saisi_Nouv_Fournisseur.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form11_Consult_Fournisseur.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form2.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_access.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_merise.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_mld.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_page_de_garde.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_présentation.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Formmen_clt.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_avance.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_fornss.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_Menu.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_mn_fact.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_mn_Prod.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_mot_passe.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_py_imp.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_vente.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_Saisi_Client.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form3.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form8_Analyse_Ventes.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form9_Etat_Impayés.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_liste_client.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Resources.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form5_Etat_Payement.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form3_nouvl_Facture.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form4_Consult_Fct_Numr.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form6_Etat_Vent_Périod.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form7_List_Factur_Client.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_List_Fournisseur.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_List_Produit.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\WindowsApplication1.Form_saisi_produit.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\Gestion Facturation.vbproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\Gestion Facturation.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\Gestion Facturation.exe
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\Gestion Facturation.xml
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x64\Debug\Gestion Facturation.pdb

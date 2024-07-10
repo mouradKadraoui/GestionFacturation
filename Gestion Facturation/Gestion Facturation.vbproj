@@ -1,0 +1,538 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D79586E0-73B0-4B6A-8A13-2B6742F5951E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>Gestion Facturation</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Gestion Facturation.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Gestion Facturation.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>Gestion Facturation.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>Gestion Facturation.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form10_Saisi_Nouv_Fournisseur.Designer.vb">
+      <DependentUpon>Form10_Saisi_Nouv_Fournisseur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form10_Saisi_Nouv_Fournisseur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11_Consult_Fournisseur.Designer.vb">
+      <DependentUpon>Form11_Consult_Fournisseur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form11_Consult_Fournisseur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_access.Designer.vb">
+      <DependentUpon>Form_access.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_access.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_merise.Designer.vb">
+      <DependentUpon>Form_merise.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_merise.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_mld.Designer.vb">
+      <DependentUpon>Form_mld.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_mld.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_page_de_garde.Designer.vb">
+      <DependentUpon>Form_page_de_garde.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_page_de_garde.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_présentation.Designer.vb">
+      <DependentUpon>Form_présentation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_présentation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formmen_clt.Designer.vb">
+      <DependentUpon>Formmen_clt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formmen_clt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_avance.Designer.vb">
+      <DependentUpon>Form_avance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_avance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_fornss.Designer.vb">
+      <DependentUpon>Form_fornss.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_fornss.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Menu.Designer.vb">
+      <DependentUpon>Form_Menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_mn_fact.Designer.vb">
+      <DependentUpon>Form_mn_fact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_mn_fact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_mn_Prod.Designer.vb">
+      <DependentUpon>Form_mn_Prod.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_mn_Prod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_mot_passe.Designer.vb">
+      <DependentUpon>Form_mot_passe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_mot_passe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_py_imp.Designer.vb">
+      <DependentUpon>Form_py_imp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_py_imp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_vente.Designer.vb">
+      <DependentUpon>Form_vente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_vente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module_Vider.vb" />
+    <Compile Include="projet_PFE1DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>projet_PFE1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form1_Saisi_client.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Form1_Saisi_client.Designer.vb">
+      <DependentUpon>Form1_Saisi_client.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Form8_Analyse_Ventes.Designer.vb">
+      <DependentUpon>Form8_Analyse_Ventes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form8_Analyse_Ventes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Form9_Etat_Impayés.Designer.vb">
+      <DependentUpon>Form9_Etat_Impayés.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form9_Etat_Impayés.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Form_list_client.Designer.vb">
+      <DependentUpon>Form_list_client.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form_list_client.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Resources\Form5_Etat_Payement.Designer.vb">
+      <DependentUpon>Form5_Etat_Payement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form5_Etat_Payement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Form3_Nouvelle_Facture.Designer.vb">
+      <DependentUpon>Form3_Nouvelle_Facture.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form3_Nouvelle_Facture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Form4_Consult_Fct_Numr.Designer.vb">
+      <DependentUpon>Form4_Consult_Fct_Numr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form4_Consult_Fct_Numr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Form6_Etat_Vent_Périod.Designer.vb">
+      <DependentUpon>Form6_Etat_Vent_Périod.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form6_Etat_Vent_Périod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Form7_List_Factur_Client.Designer.vb">
+      <DependentUpon>Form7_List_Factur_Client.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form7_List_Factur_Client.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Form_List_Fournisseur.Designer.vb">
+      <DependentUpon>Form_List_Fournisseur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form_List_Fournisseur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Form_List_Produit.Designer.vb">
+      <DependentUpon>Form_List_Produit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form_List_Produit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Form2_Saisi_Produit.Designer.vb">
+      <DependentUpon>Form2_Saisi_Produit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form2_Saisi_Produit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form10_Saisi_Nouv_Fournisseur.resx">
+      <DependentUpon>Form10_Saisi_Nouv_Fournisseur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form11_Consult_Fournisseur.resx">
+      <DependentUpon>Form11_Consult_Fournisseur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_access.resx">
+      <DependentUpon>Form_access.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_merise.resx">
+      <DependentUpon>Form_merise.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_mld.resx">
+      <DependentUpon>Form_mld.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_page_de_garde.resx">
+      <DependentUpon>Form_page_de_garde.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_présentation.resx">
+      <DependentUpon>Form_présentation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formmen_clt.resx">
+      <DependentUpon>Formmen_clt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_avance.resx">
+      <DependentUpon>Form_avance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_fornss.resx">
+      <DependentUpon>Form_fornss.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Menu.resx">
+      <DependentUpon>Form_Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_mn_fact.resx">
+      <DependentUpon>Form_mn_fact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_mn_Prod.resx">
+      <DependentUpon>Form_mn_Prod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_mot_passe.resx">
+      <DependentUpon>Form_mot_passe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_py_imp.resx">
+      <DependentUpon>Form_py_imp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_vente.resx">
+      <DependentUpon>Form_vente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form1_Saisi_client.resx">
+      <DependentUpon>Form1_Saisi_client.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form8_Analyse_Ventes.resx">
+      <DependentUpon>Form8_Analyse_Ventes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form9_Etat_Impayés.resx">
+      <DependentUpon>Form9_Etat_Impayés.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form_list_client.resx">
+      <DependentUpon>Form_list_client.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form5_Etat_Payement.resx">
+      <DependentUpon>Form5_Etat_Payement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form3_Nouvelle_Facture.resx">
+      <DependentUpon>Form3_Nouvelle_Facture.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form4_Consult_Fct_Numr.resx">
+      <DependentUpon>Form4_Consult_Fct_Numr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form6_Etat_Vent_Périod.resx">
+      <DependentUpon>Form6_Etat_Vent_Périod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form7_List_Factur_Client.resx">
+      <DependentUpon>Form7_List_Factur_Client.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form_List_Fournisseur.resx">
+      <DependentUpon>Form_List_Fournisseur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form_List_Produit.resx">
+      <DependentUpon>Form_List_Produit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form2_Saisi_Produit.resx">
+      <DependentUpon>Form2_Saisi_Produit.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="projet_PFE1DataSet.xsc">
+      <DependentUpon>projet_PFE1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="projet_PFE1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>projet_PFE1DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="projet_PFE1DataSet.xss">
+      <DependentUpon>projet_PFE1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\disk04.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="projet PFE1.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\OUMA.png" />
+    <None Include="Resources\fgtr.JPG" />
+    <None Include="Resources\cdh.JPG" />
+    <None Include="Resources\mld.JPG" />
+    <None Include="Resources\mcd.JPG" />
+    <None Include="Resources\khhh.JPG" />
+    <None Include="Resources\tttt.JPG" />
+    <None Include="Resources\ghffgfin.JPG" />
+    <None Include="Resources\ygu.JPG" />
+    <None Include="Resources\Capturefn.JPG" />
+    <None Include="Resources\hgghghg.JPG" />
+    <None Include="Resources\geedf.JPG" />
+    <None Include="Resources\20-astuces-pour-personnaliser-votre-relation-client.jpg" />
+    <None Include="Resources\images1.png" />
+    <None Include="Resources\recherche-de-fournisseurs-potentiels-03.png" />
+    <None Include="Resources\relation-826x459.jpg" />
+    <None Include="Resources\relation-acheteur-fournisseur-coeur-dernieres-Rencontres-Decision-Achats-F.jpg" />
+    <None Include="Resources\kjhhhj2.JPG" />
+    <None Include="Resources\kk.JPG" />
+    <None Include="Resources\zertt.JPG" />
+    <None Include="Resources\kjhhhj1.JPG" />
+    <None Include="Resources\kjhhhj.JPG" />
+    <None Include="Resources\jh.JPG" />
+    <None Include="Resources\gfdhjgffg.JPG" />
+    <None Include="Resources\gfd.JPG" />
+    <None Include="Resources\hgesctfr.JPG" />
+    <None Include="Resources\kjj.JPG" />
+    <None Include="Resources\lonn.JPG" />
+    <None Include="Resources\bersgf.JPG" />
+    <None Include="Resources\lotrf.JPG" />
+    <None Include="Resources\u.JPG" />
+    <None Include="Resources\610311ab0aefbc4da1f79026_Header-Blog-equiperfactuHEADER.jpeg" />
+    <None Include="Resources\log-4-1024x484.jpg" />
+    <None Include="Resources\logiciel-de-facturation.jpg" />
+    <None Include="Resources\facture-impayee2.png" />
+    <None Include="Resources\img2.jpg" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\kisspng-financial-accounting-business-management-accountan-accounting-5ac0bb0eec7084.7926291615225802389685.png" />
+    <None Include="Resources\visuel-gc1.png" />
+    <None Include="Resources\shopping-list-1.png" />
+    <None Include="Resources\téléchargement.png" />
+    <None Include="Resources\kisspng-inventory-management-software-warehouse-management-inventory-management-5b43314a691e95.8181917015311301864306.jpg" />
+    <None Include="Resources\pngtree-customer-service-icon-png-image_2731437.jpg" />
+    <None Include="Resources\cyber-security-protection-of-the-internet-computer-system-is-a-concept-hackers-use-digital-technology-free-photo.jpg" />
+    <None Include="Resources\visuel-gc.png" />
+    <None Include="Resources\facture-impayee1.png" />
+    <None Include="Resources\facture-impayee.png" />
+    <None Include="Resources\Find-Saved-Passwords-833x474.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 et x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

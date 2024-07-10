@@ -1,0 +1,14 @@
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Release\Facturation.accdb
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Release\Gestion Facturation.exe.config
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Release\Gestion Facturation.exe
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Release\Gestion Facturation.pdb
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Release\Gestion Facturation.xml
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Release\ResolveAssemblyReference.cache
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Release\WindowsApplication1.Form_Saisi_Client.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Release\WindowsApplication1.Form_liste_client.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Release\GenerateResource.read.1.tlog
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Release\GenerateResource.write.1.tlog
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Release\Gestion Facturation.exe
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Release\Gestion Facturation.xml
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Release\Gestion Facturation.pdb

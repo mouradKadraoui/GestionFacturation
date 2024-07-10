@@ -1,0 +1,134 @@
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Debug\Gestion Facturation.exe
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Debug\Gestion Facturation.pdb
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Debug\Gestion Facturation.xml
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_Saisi_Client.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.exe
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.xml
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.pdb
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Debug\Gestion Facturation.exe.config
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_liste_client.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Debug\projet PFE1.accdb
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_saisi_produit.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_List_Produit.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form3_nouvl_Facture.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form4_Consult_Fct_Numr.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form5_Etat_Payement.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\GenerateResource.read.17.tlog
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form6_Etat_Vent_Périod.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form7_List_Factur_Client.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form8_Analyse_Ventes.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form9_Etat_Impayés.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form10_Saisi_Nouv_Fournisseur.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_List_Fournisseur.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form11_Consult_Fournisseur.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_avance.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_Menu.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_mot_passe.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Formmen_clt.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_mn_fact.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_mn_Prod.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_py_imp.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_vente.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_fornss.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_présentation.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_page_de_garde.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\GenerateResource.read.0.tlog
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\GenerateResource.write.0.tlog
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_merise.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_mld.resources
+D:\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_access.resources
+G:\PFE(gestion facture)\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Debug\Gestion Facturation.exe.config
+G:\PFE(gestion facture)\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.exe
+G:\PFE(gestion facture)\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.xml
+G:\PFE(gestion facture)\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.pdb
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Debug\Gestion Facturation.exe.config
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.exe
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.xml
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.pdb
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Debug\projet PFE1.accdb
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Debug\Gestion Facturation.exe
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Debug\Gestion Facturation.pdb
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\bin\Debug\Gestion Facturation.xml
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form10_Saisi_Nouv_Fournisseur.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form11_Consult_Fournisseur.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_access.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_merise.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_mld.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_page_de_garde.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_présentation.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Formmen_clt.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_avance.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_fornss.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_Menu.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_mn_fact.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_mn_Prod.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_mot_passe.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_py_imp.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_vente.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_Saisi_Client.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form8_Analyse_Ventes.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form9_Etat_Impayés.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_liste_client.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form5_Etat_Payement.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form3_nouvl_Facture.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form4_Consult_Fct_Numr.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form6_Etat_Vent_Périod.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form7_List_Factur_Client.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_List_Fournisseur.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_List_Produit.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_saisi_produit.resources
+C:\Users\ASUS\OneDrive\Desktop\PFF(gestion des facture)\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.vbproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\bin\Debug\projet PFE1.accdb
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\bin\Debug\Gestion Facturation.exe.config
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\bin\Debug\Gestion Facturation.exe
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\bin\Debug\Gestion Facturation.pdb
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\bin\Debug\Gestion Facturation.xml
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.vbproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form10_Saisi_Nouv_Fournisseur.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form11_Consult_Fournisseur.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_access.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_merise.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_mld.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_page_de_garde.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_présentation.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Formmen_clt.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_avance.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_fornss.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_Menu.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_mn_fact.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_mn_Prod.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_mot_passe.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_py_imp.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_vente.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_Saisi_Client.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form8_Analyse_Ventes.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form9_Etat_Impayés.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_liste_client.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form5_Etat_Payement.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form3_nouvl_Facture.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form4_Consult_Fct_Numr.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form6_Etat_Vent_Périod.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form7_List_Factur_Client.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_List_Fournisseur.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_List_Produit.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\WindowsApplication1.Form_saisi_produit.resources
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.vbproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.exe
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.xml
+C:\Users\Hp\Desktop\Gestion Facturation\Gestion Facturation\obj\x86\Debug\Gestion Facturation.pdb
