@@ -52,21 +52,23 @@ Partial Class Form_Saisi_Client
         '
         Me.Label1.Font = New System.Drawing.Font("Monotype Corsiva", 18.75!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.Label1.Location = New System.Drawing.Point(-1, 6)
+        Me.Label1.Location = New System.Drawing.Point(-2, 9)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(457, 138)
+        Me.Label1.Size = New System.Drawing.Size(686, 212)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "                     Societe FL" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Vente Produits Informatique Bureautique" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "       " & _
-            "      et Fourniture de Bureaux" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "                          N°175"
+        Me.Label1.Text = "                     Societe VPIBF" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Vente Produits Informatique Bureautique" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "    " &
+    "         et Fourniture de Bureaux" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "                          N°175"
         '
         'Label2
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Elephant", 14.25!, CType((System.Drawing.FontStyle.Italic Or System.Drawing.FontStyle.Underline), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Label2.Location = New System.Drawing.Point(333, 119)
+        Me.Label2.Location = New System.Drawing.Point(500, 183)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(409, 25)
+        Me.Label2.Size = New System.Drawing.Size(605, 38)
         Me.Label2.TabIndex = 1
         Me.Label2.Text = "Saisi/Consulter et mise à jour d'un Client"
         '
@@ -75,9 +77,10 @@ Partial Class Form_Saisi_Client
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Label3.Location = New System.Drawing.Point(41, 196)
+        Me.Label3.Location = New System.Drawing.Point(62, 302)
+        Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(45, 22)
+        Me.Label3.Size = New System.Drawing.Size(66, 32)
         Me.Label3.TabIndex = 3
         Me.Label3.Text = "CIN"
         '
@@ -86,9 +89,10 @@ Partial Class Form_Saisi_Client
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Label4.Location = New System.Drawing.Point(41, 367)
+        Me.Label4.Location = New System.Drawing.Point(62, 565)
+        Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(95, 22)
+        Me.Label4.Size = New System.Drawing.Size(141, 32)
         Me.Label4.TabIndex = 4
         Me.Label4.Text = "Téléphone"
         '
@@ -97,9 +101,10 @@ Partial Class Form_Saisi_Client
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label5.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Label5.Location = New System.Drawing.Point(41, 334)
+        Me.Label5.Location = New System.Drawing.Point(62, 514)
+        Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(46, 22)
+        Me.Label5.Size = New System.Drawing.Size(70, 32)
         Me.Label5.TabIndex = 5
         Me.Label5.Text = "Ville"
         '
@@ -108,9 +113,10 @@ Partial Class Form_Saisi_Client
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label6.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Label6.Location = New System.Drawing.Point(41, 302)
+        Me.Label6.Location = New System.Drawing.Point(62, 465)
+        Me.Label6.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(75, 22)
+        Me.Label6.Size = New System.Drawing.Size(109, 32)
         Me.Label6.TabIndex = 6
         Me.Label6.Text = "Adresse"
         '
@@ -119,9 +125,10 @@ Partial Class Form_Saisi_Client
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label7.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Label7.Location = New System.Drawing.Point(41, 262)
+        Me.Label7.Location = New System.Drawing.Point(62, 403)
+        Me.Label7.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(96, 22)
+        Me.Label7.Size = New System.Drawing.Size(140, 32)
         Me.Label7.TabIndex = 7
         Me.Label7.Text = "Profession"
         '
@@ -130,9 +137,10 @@ Partial Class Form_Saisi_Client
         Me.Label8.AutoSize = True
         Me.Label8.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label8.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Label8.Location = New System.Drawing.Point(41, 229)
+        Me.Label8.Location = New System.Drawing.Point(62, 352)
+        Me.Label8.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(139, 22)
+        Me.Label8.Size = New System.Drawing.Size(208, 32)
         Me.Label8.TabIndex = 8
         Me.Label8.Text = "Nom && Prénom"
         '
@@ -141,68 +149,76 @@ Partial Class Form_Saisi_Client
         Me.Label9.AutoSize = True
         Me.Label9.Font = New System.Drawing.Font("Palatino Linotype", 18.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label9.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Label9.Location = New System.Drawing.Point(540, 184)
+        Me.Label9.Location = New System.Drawing.Point(810, 283)
+        Me.Label9.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(131, 32)
+        Me.Label9.Size = New System.Drawing.Size(194, 48)
         Me.Label9.TabIndex = 9
         Me.Label9.Text = "Rechercher"
         '
         'z_cin
         '
         Me.z_cin.Font = New System.Drawing.Font("Arial Rounded MT Bold", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.z_cin.Location = New System.Drawing.Point(215, 196)
+        Me.z_cin.Location = New System.Drawing.Point(322, 302)
+        Me.z_cin.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.z_cin.Name = "z_cin"
-        Me.z_cin.Size = New System.Drawing.Size(153, 27)
+        Me.z_cin.Size = New System.Drawing.Size(228, 37)
         Me.z_cin.TabIndex = 10
         '
         'z_ad
         '
         Me.z_ad.Font = New System.Drawing.Font("Arial Rounded MT Bold", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.z_ad.Location = New System.Drawing.Point(215, 296)
+        Me.z_ad.Location = New System.Drawing.Point(322, 455)
+        Me.z_ad.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.z_ad.Name = "z_ad"
-        Me.z_ad.Size = New System.Drawing.Size(254, 27)
+        Me.z_ad.Size = New System.Drawing.Size(379, 37)
         Me.z_ad.TabIndex = 11
         '
         'z_vil
         '
         Me.z_vil.Font = New System.Drawing.Font("Arial Rounded MT Bold", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.z_vil.Location = New System.Drawing.Point(215, 329)
+        Me.z_vil.Location = New System.Drawing.Point(322, 506)
+        Me.z_vil.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.z_vil.Name = "z_vil"
-        Me.z_vil.Size = New System.Drawing.Size(254, 27)
+        Me.z_vil.Size = New System.Drawing.Size(379, 37)
         Me.z_vil.TabIndex = 12
         '
         'z_tl
         '
         Me.z_tl.Font = New System.Drawing.Font("Arial Rounded MT Bold", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.z_tl.Location = New System.Drawing.Point(215, 362)
+        Me.z_tl.Location = New System.Drawing.Point(322, 557)
+        Me.z_tl.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.z_tl.Name = "z_tl"
-        Me.z_tl.Size = New System.Drawing.Size(254, 27)
+        Me.z_tl.Size = New System.Drawing.Size(379, 37)
         Me.z_tl.TabIndex = 13
         '
         'z_np
         '
         Me.z_np.Font = New System.Drawing.Font("Arial Rounded MT Bold", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.z_np.Location = New System.Drawing.Point(215, 229)
+        Me.z_np.Location = New System.Drawing.Point(322, 352)
+        Me.z_np.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.z_np.Name = "z_np"
-        Me.z_np.Size = New System.Drawing.Size(254, 27)
+        Me.z_np.Size = New System.Drawing.Size(379, 37)
         Me.z_np.TabIndex = 14
         '
         'l_prf
         '
         Me.l_prf.Font = New System.Drawing.Font("Arial Rounded MT Bold", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.l_prf.FormattingEnabled = True
-        Me.l_prf.Location = New System.Drawing.Point(215, 262)
+        Me.l_prf.Location = New System.Drawing.Point(322, 403)
+        Me.l_prf.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.l_prf.Name = "l_prf"
-        Me.l_prf.Size = New System.Drawing.Size(254, 28)
+        Me.l_prf.Size = New System.Drawing.Size(379, 38)
         Me.l_prf.TabIndex = 15
         '
         'l_rech
         '
         Me.l_rech.Font = New System.Drawing.Font("Arial Rounded MT Bold", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.l_rech.FormattingEnabled = True
-        Me.l_rech.Location = New System.Drawing.Point(534, 229)
+        Me.l_rech.Location = New System.Drawing.Point(801, 352)
+        Me.l_rech.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.l_rech.Name = "l_rech"
-        Me.l_rech.Size = New System.Drawing.Size(150, 28)
+        Me.l_rech.Size = New System.Drawing.Size(223, 38)
         Me.l_rech.TabIndex = 16
         '
         'B_aj
@@ -211,9 +227,10 @@ Partial Class Form_Saisi_Client
         Me.B_aj.Font = New System.Drawing.Font("Lucida Calligraphy", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.B_aj.Image = Global.WindowsApplication1.My.Resources.Resources.save_32
         Me.B_aj.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.B_aj.Location = New System.Drawing.Point(16, 19)
+        Me.B_aj.Location = New System.Drawing.Point(24, 29)
+        Me.B_aj.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.B_aj.Name = "B_aj"
-        Me.B_aj.Size = New System.Drawing.Size(190, 41)
+        Me.B_aj.Size = New System.Drawing.Size(285, 63)
         Me.B_aj.TabIndex = 22
         Me.B_aj.Text = "Ajouter"
         Me.B_aj.UseVisualStyleBackColor = True
@@ -221,9 +238,10 @@ Partial Class Form_Saisi_Client
         'B_fer
         '
         Me.B_fer.Font = New System.Drawing.Font("Lucida Calligraphy", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.B_fer.Location = New System.Drawing.Point(450, 66)
+        Me.B_fer.Location = New System.Drawing.Point(675, 102)
+        Me.B_fer.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.B_fer.Name = "B_fer"
-        Me.B_fer.Size = New System.Drawing.Size(190, 41)
+        Me.B_fer.Size = New System.Drawing.Size(285, 63)
         Me.B_fer.TabIndex = 23
         Me.B_fer.Text = "Fermer"
         Me.B_fer.UseVisualStyleBackColor = True
@@ -231,9 +249,10 @@ Partial Class Form_Saisi_Client
         'B_anl
         '
         Me.B_anl.Font = New System.Drawing.Font("Lucida Calligraphy", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.B_anl.Location = New System.Drawing.Point(231, 66)
+        Me.B_anl.Location = New System.Drawing.Point(346, 102)
+        Me.B_anl.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.B_anl.Name = "B_anl"
-        Me.B_anl.Size = New System.Drawing.Size(190, 41)
+        Me.B_anl.Size = New System.Drawing.Size(285, 63)
         Me.B_anl.TabIndex = 24
         Me.B_anl.Text = "Annuler"
         Me.B_anl.UseVisualStyleBackColor = True
@@ -241,9 +260,10 @@ Partial Class Form_Saisi_Client
         'B_list
         '
         Me.B_list.Font = New System.Drawing.Font("Lucida Calligraphy", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.B_list.Location = New System.Drawing.Point(450, 19)
+        Me.B_list.Location = New System.Drawing.Point(675, 29)
+        Me.B_list.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.B_list.Name = "B_list"
-        Me.B_list.Size = New System.Drawing.Size(190, 41)
+        Me.B_list.Size = New System.Drawing.Size(285, 63)
         Me.B_list.TabIndex = 25
         Me.B_list.Text = "Liste Client"
         Me.B_list.UseVisualStyleBackColor = True
@@ -251,9 +271,10 @@ Partial Class Form_Saisi_Client
         'B_mod
         '
         Me.B_mod.Font = New System.Drawing.Font("Lucida Calligraphy", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.B_mod.Location = New System.Drawing.Point(231, 19)
+        Me.B_mod.Location = New System.Drawing.Point(346, 29)
+        Me.B_mod.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.B_mod.Name = "B_mod"
-        Me.B_mod.Size = New System.Drawing.Size(190, 41)
+        Me.B_mod.Size = New System.Drawing.Size(285, 63)
         Me.B_mod.TabIndex = 26
         Me.B_mod.Text = "Modifier"
         Me.B_mod.UseVisualStyleBackColor = True
@@ -261,9 +282,10 @@ Partial Class Form_Saisi_Client
         'B_sup
         '
         Me.B_sup.Font = New System.Drawing.Font("Lucida Calligraphy", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.B_sup.Location = New System.Drawing.Point(16, 66)
+        Me.B_sup.Location = New System.Drawing.Point(24, 102)
+        Me.B_sup.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.B_sup.Name = "B_sup"
-        Me.B_sup.Size = New System.Drawing.Size(190, 41)
+        Me.B_sup.Size = New System.Drawing.Size(285, 63)
         Me.B_sup.TabIndex = 27
         Me.B_sup.Text = "Supprimer"
         Me.B_sup.UseVisualStyleBackColor = True
@@ -278,18 +300,20 @@ Partial Class Form_Saisi_Client
         Me.GroupBox1.Controls.Add(Me.B_fer)
         Me.GroupBox1.Controls.Add(Me.B_aj)
         Me.GroupBox1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.GroupBox1.Location = New System.Drawing.Point(35, 409)
+        Me.GroupBox1.Location = New System.Drawing.Point(52, 629)
+        Me.GroupBox1.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(668, 117)
+        Me.GroupBox1.Padding = New System.Windows.Forms.Padding(4, 5, 4, 5)
+        Me.GroupBox1.Size = New System.Drawing.Size(1002, 180)
         Me.GroupBox1.TabIndex = 23
         Me.GroupBox1.TabStop = False
         '
         'Form_Saisi_Client
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
-        Me.ClientSize = New System.Drawing.Size(1030, 800)
+        Me.ClientSize = New System.Drawing.Size(1545, 1106)
         Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.l_rech)
         Me.Controls.Add(Me.l_prf)
@@ -309,6 +333,7 @@ Partial Class Form_Saisi_Client
         Me.Controls.Add(Me.Label1)
         Me.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
+        Me.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Name = "Form_Saisi_Client"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Saisi Client"
